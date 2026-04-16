@@ -135,10 +135,6 @@ python main.py
 
 ![Inventory](images/inventory_table.png)
 
-### Terminal Output
-
-![Terminal](images/terminal_output.png)
-
 ---
 
 ## 📌 Key Features
